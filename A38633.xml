@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to suppress prophaness [sic] and immorality pay the nations debts, support the government, and maintain the poor. Humbly submitted to the Lords spiritual, temporal, and Commons assembled in Parliament. With a short postscript relating to His Majesty's speech. By a Society for reformation of manners.</title>
+            <author>Societies for the Reformation of Manners.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38633</idno>
+            <idno type="STC">Wing E3294B</idno>
+            <idno type="STC">ESTC R219585</idno>
+            <idno type="EEBO-CITATION">99831046</idno>
+            <idno type="PROQUEST">99831046</idno>
+            <idno type="VID">35508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35508)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to suppress prophaness [sic] and immorality pay the nations debts, support the government, and maintain the poor. Humbly submitted to the Lords spiritual, temporal, and Commons assembled in Parliament. With a short postscript relating to His Majesty's speech. By a Society for reformation of manners.</title>
+                  <author>Societies for the Reformation of Manners.</author>
+               </titleStmt>
+               <extent>[2], 8, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain. --  Parliament --  History --  Early works to 1800.</term>
+               <term>Debts, Public --  England --  Early works to 1800.</term>
+               <term>Immorality --  Early works to 1800.</term>
+               <term>Poor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35508:1"/>
+            <pb facs="tcp:35508:1" rendition="simple:additions"/>
+            <p>AN ESSAY To SUPPRESS Prophaneſs and Immorality, <hi>Pay the Nations Debts, Support the Govern<g ref="char:EOLhyphen"/>ment, and Maintain the POOR.</hi>
+            </p>
+            <p>Humbly ſubmitted to the LORDS Spiritu<g ref="char:EOLhyphen"/>al, Temporal, and COMMONS Aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</p>
+            <p>WITH A ſhort <hi>POSTSCRIPT</hi> relating to His <hi>MAJESTY</hi>'s Speech.</p>
+            <p>By a SOCIETY for Reformation of MANNERS.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the AUTHOR<g ref="char:punc">▪</g> and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:35508:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:35508:2"/>
+            <head>AN ESSAY To Suppreſs, Prophaneſs and Immorality, <hi>Pay the Nations Debts, Support the Government, and Maintain the Poor.</hi> Humbly ſubmitted to the LORDS Spiri<g ref="char:EOLhyphen"/>tual, Temporal, and COMMONS Aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</head>
+            <byline>By a SOCIETY for REFORMATION of MANNERS.<note place="margin">Whereas an E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>len<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, is the Grand ob<g ref="char:EOLhyphen"/>jection, the Reader is de<g ref="char:EOLhyphen"/>ſired to look upon the 11th Conſideration, and Reflect up<g ref="char:EOLhyphen"/>on a continual Pole, and ſup<g ref="char:EOLhyphen"/>poſe that it Commence 3 Months before the Exciſe cea<g ref="char:EOLhyphen"/>ſeth, there will be no ſtop of the Revenue; It may be Ne<g ref="char:EOLhyphen"/>ceſſary to give 6 Months time to diſpoſe of Retailers goods<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; alſo that they may find ſome o<g ref="char:EOLhyphen"/>ther Imploy<g ref="char:EOLhyphen"/>ments, which no doubt but honeſt men may do.</note>
+            </byline>
+            <p>IT is not unknown to all <hi>Engliſh</hi> men, how frequently His Majeſty has recommended to the ſeveral Parliaments in his Reign, the ſuppreſſing Vice, and that ſeveral good Bills has been added to thoſe of former Reigns, and a particular Recommendation given to the Lords Judges, that in their reſpective Circuits, they ſhould enjoyn their Execu<g ref="char:EOLhyphen"/>tion; but the ſmall product theſe Laws and injunctions have made, would make a Man almoſt fancy a poſſibility of Chy<g ref="char:EOLhyphen"/>merical Acts of an <hi>Engliſh</hi> Parliament, which would be af<g ref="char:EOLhyphen"/>frontive, if not dangerous to Aſſert; tho' there is not much difference between Chymera's and Impoſſibilities; and I dare affirm, that it is, and ever will be next to an impoſſibility, to mend <hi>Engliſh</hi> Men and their Manners, whilſt a Latitude is given them to gratifie Corrupt Nature in the Epidemick Di<g ref="char:EOLhyphen"/>ſeaſe of Drinking <hi>Strong-Drink,</hi> as much and as oft as they can or pleaſe; but how this can be prevented is the <hi>Herculian</hi> La<g ref="char:EOLhyphen"/>bour which has not yet been ſcarce ſo much as thought on, and for its impractibility, not attempted in any Authoritative man<g ref="char:EOLhyphen"/>ner; Therefore the Love I have for my Native Country, and
+<pb n="2" facs="tcp:35508:3"/>ſincere Deſire of their Welfare, makes me caſt my Mite into the vaſt Treaſury of others Labours: ☞ And ſuppoſe that the Prices of all Strong-Drinks that are Sold by Retail were ſet<g ref="char:EOLhyphen"/>led by Act of Parliament to ſuch a Price, as only wholeſom Table Small-Beer could be afforded to be Brewed for Sale, the conſequence is the moſt natural cogitation in the World; (for <hi>Ablata Cauſa, tollitur Effectus.</hi>) And that Strong-Drink is the Cauſe of almoſt all our National Misfortunes, is deducible from Matter of Fact, the Solideſt of Arguments He muſt have but little Underſtanding, and leſs Grace, that will plead either Cuſtom or Convenience againſt it; For under theſe two Heads are Reducible all that can be ſaid concerning it; as to the former, I hope the ſooner we are ſhut of Evil Cu<g ref="char:EOLhyphen"/>ſtoms the better; and let any one prove that ſelling of Strong-Drink by Retail is a good Cuſtom, as it is uſed in <hi>England,</hi> if he can. I deny it, and Challenge all Opponents, but Drunkards and Fools, which I hope exempt themſelves from being anſwered (by their very Names.)</p>
+            <p>And for the Latter, the moſt material are the Conſumption of the Growth of the Kingdom, the Revenue ariſing there<g ref="char:EOLhyphen"/>from; the uſefulneſs of ſtronger Drink, than Table-Beer for the behoof of Mankind, and Ruin of the preſent Families de<g ref="char:EOLhyphen"/>pending thereupon; and to each of theſe, I ſhall ſay a little out of much, that may hereafter be ſaid, if occaſion be.</p>
+            <p>For it is no eaſy matter when men are got into a Road that leads to Intereſt and Eaſe, to perſwade them to change it, or go the leaſt way about to attain an ungotten Treaſure, tho' never ſo certain at laſt.</p>
+            <p>To begin therefore with the Conſumption of Corn, the Growth of the Nation. I conceive that whatſoever Com<g ref="char:EOLhyphen"/>modity is brought to perfection in a Country, and deſtroyed in the ſame, may ſupport, but will not enrich that Country; But thouſands of Laſts of Corn is brought to perfection in <hi>England,</hi> and conſumed by the exceſſive Debauchery of Drink<g ref="char:EOLhyphen"/>ing Strong-Drink, to the Encouragement of all manner of Vice, and beyond the Neceſſity of almoſt any ſingle Perſon; Therefore this Conſumption is no way profitable to the Nation, but highly detrimental in the ſight of God, and any reaſonable and good Man.</p>
+            <p>
+               <hi>2ly,</hi> In regard of the Revenue ariſing therefrom, it is a con<g ref="char:EOLhyphen"/>tradiction to pretend to ſuppreſs Vice and expect a Support
+<pb n="3" facs="tcp:35508:3" rendition="simple:additions"/>by its Continuance; and that Government muſt have a bad foundation, which is Built upon the deſtruction of Body and Soul of its People; 'Tis confeſſed, that vaſt Sums do acrue to the King's Coffers, which yet is but one Sixth of the Product of ſo much Corn waſted in Mault:</p>
+            <p>For beſides what goes to the Maintaining Brewers and Ale-Houſe-keepers in Pride and Luxury, all the reſt is piſs'd a<g ref="char:EOLhyphen"/>againſt the Wall, and ſo much Money returned to make men Wicked and Poor.</p>
+            <p>We always ſay, <hi>'Tis opportunity makes the Thief;</hi> and what is it that makes the Profane and Drunkards, but a Liberty and Opportunity to be ſo? For if no Strong-Drink were to be ſold, (as it is in every Hole and Corner, and at every place with full Licenſe to Drink as long as they can pay) the Coun<g ref="char:EOLhyphen"/>try Gentlemen, Tradeſmen, Mechanicks and Plowmen, would be ſober and frugal in ſpite of their Teeths; the Latters Families would be maintained in Honeſty and commendable eaſy Faſhion: And all the Complaints of our Mechanicks, That they are eaten out by <hi>Foreigners,</hi> would be frivolous; For 'tis their own <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Drinking, that devours their Wages; whereas the others parſimonious Living, impower them to ſell Cheaper, and perhaps better Wares than can be afforded, or perhaps made by the beſt of our Ingenious Ar<g ref="char:EOLhyphen"/>tiſts, who are uſually Named with this detractive: <hi>He is an Ingenious Fellow but a Pot-Companion;</hi> and the Name of Poor would be almoſt forgotten in a little time; For, tho' it is tru<g ref="char:EOLhyphen"/>ly ſaid in an Ingenious Paper, Relating to a <hi>National Fiſhery,</hi> That moſt People at the Gallows complain, <hi>That Neceſſity brought them thither;</hi> it may be as wiſely conſidered, that their own Extravagancy was the Occaſion of that neceſſity.</p>
+            <p>For in our Nation, we are ſo Plentifully ſupplied by the Almighty's Bounty, with all Things Neceſſary to our Welfare, if we could but underſtand the right uſe of them; that to ſee a Beggar in health between 10 and 60 years of Age, would beſpeak either Knavery or great Folly in them and the whole Pariſh they belong to, provided there was no Ale ſold by Re<g ref="char:EOLhyphen"/>tail. But whilſt that is ſuffered, the Fault lies in neither, as it is not in their Power to Redreſs. And if by Redreſſing this Mortal Grievance, there ſhould ariſe ſome Inconvenience for want of the Accuſtomed ſupply for the Government.</p>
+            <p>It cannot be ſuppoſed but the Wiſdom of our Senators can
+<pb n="4" facs="tcp:35508:4" rendition="simple:additions"/>ſupply that defect by ſome other Tax, which every man would be able pay, by reaſon they could not ſpend their Money ex<g ref="char:EOLhyphen"/>travagantly, and the Taxation would lie more equal, For now he that Spends moſt, Pays moſt, yet has the moſt need to keep his Money. And ſuch Men will eſcape with ſober Heads and full Pockets, for other Uſes in their Families: And Corn might be always had at Reaſonable Rates; and great Stores kept in publick Granaries to ſupply our ſelves and Neighbours, in leſs plentiful years.</p>
+            <p>It may be taken for Granted, that mankind naturally ab<g ref="char:EOLhyphen"/>hors perfect Idleneſs; and if in Drinking nothing but the Ap<g ref="char:EOLhyphen"/>petite was indulged, Men would ſoon be weary of it. But under the Notion of Converſation, Idle and Profane Talk, Curſing, and Swearing, (which they call Pleaſant Company) betrays them into loſs of Time, Health, Wealth, Body, and I doubt, too many Souls into the Bargain, which would be abſolutely prevented by having no Drink ſold, but ſuch as is proper to quench Thirſt, which is all that Wiſe Nature re<g ref="char:EOLhyphen"/>quires at our hands for her ſupport; and if any, or all men were Neceſſitous by their ha<gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to drink ſtronger, Let them Brew and welcome. I am fully perſwaded, they will ſoon be weary of giving their Drink away. For beſides the Charge, none but a perfect Beaſt will be willing to di<g ref="char:EOLhyphen"/>ſturb his own Family, (not even with his beſt Friends often.) And ſhould a few diſſolute Perſons, in contempt of Virtue, and in defiance to the Regular part of Mankind, preſume to continue Debauchery in their own Houſes, they would ſoon render themſelves the Object of every Man's Scorn, which would preſently make them Scorn themſelves for their preſum<g ref="char:EOLhyphen"/>ptuous Folly.</p>
+            <p>'Tis moſt likely that another great Convenience would Spring from hence. <hi>(viz.)</hi> The ordinary ſort of People may ſet an example of a temperate Hoſpitality, which has been of late turn'd into a Debaucht Ebriety and Voraciouſneſs among the ableſt and thoſe we call the greater Perſons; and by this means all the indiſpenſable Neceſſity of Strong Drink will be anſwer'd to a Tittle, as I ſhall make it appear more fully in a Book that will be ready for the Preſs againſt the next Seſſion of Parlia<g ref="char:EOLhyphen"/>ment: In which will be anſwered all Objections in Relation to Travellers, Commerce (and the ſubſiſtance of a Standing Force, if it be thought neceſſary for the Honour and ſafety of the
+<pb n="5" facs="tcp:35508:4" rendition="simple:additions"/>Kingdoms) and all other Objections, with ſubmiſſion to the Correction and Amendments of abler Heads and more culti<g ref="char:EOLhyphen"/>vated Councels.</p>
+            <p>
+               <hi>Laſtly,</hi> As to the preſent Perſons maintained by Retailing Strong-Drink: If a few People, that from Nothing (an Ale<g ref="char:EOLhyphen"/>houſe being the laſt ſhift) are grown Opulent and haughty by other Men's Misfortunes, and their own not over honeſt Management, are to be preferred before a Common Good, that will furmount all the Benefits that have accrued to our Nation, for almoſt two Centuries, I'll ſubmit; but whilſt that be made apparent, I muſt take the liberty to ſay, That if our Anceſtors did wiſely deſcent from the Superſtitions of the Church of <hi>Rome,</hi> their Poſterity are become as blind I dolators of their own Paunches; and inſtead of Wooden, have ſet up Belly-Gods to themſelves.</p>
+            <p>I ſhall conclude this Paper with the Opinion of a Perſon concerning <hi>Tobacco, (viz.)</hi> He believed it was an Invention of the Devil; and that Satan, foreſeeing the Ruine of his Em<g ref="char:EOLhyphen"/>pire in <hi>America,</hi> by the Chriſtians, did ſore-cloſe (as we may call it) their Unde<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>g, by cauſing thoſe Poor People (then abſolutely at his diſpoſal) to Worſhip him with Fire and Smoak out of their Mouths; by which Means it became habitual, and was uſed promiſcuouſly for Diverſion and Sacrifice, when the <hi>Europians</hi> arrived in their Country. A thing ſo contrary to Nature, that none but <hi>Lucifer</hi> could propoſe it; yet with their Gold, their new Gueſts ſwallowed their Cuſtom of Smoak<g ref="char:EOLhyphen"/>ing, and tranſmitted them to us; and to compleat the more than pagent Tragedy, we have added Drinking thereto, and by that means have fulfilled the ſubtil Enemies Deſigns, and raiſed him a New Empire in <hi>Europe,</hi> for the loſs of his old one in <hi>America;</hi> which I fear, is but too true,</p>
+            <p>I'll inſert a Story out of the <hi>Turkiſh Hiſtory,</hi> which I read long ſince; and not having the Book by me, cannot inſert the place; but 'tis in ſubſtance; <hi>That one of their Emperours, ha<g ref="char:EOLhyphen"/>ving in ſome of his Wars obſerved, that his Army mouldred away inſenſibly, asked the</hi> Muffti, <hi>what ſhould be the cauſe of it?</hi> Who anſwered, <hi>That he could give no other Reaſon, than that the Soul<g ref="char:EOLhyphen"/>diers, who uſed to Eat Rice Bread and other wholeſome Food, had of late lived upon fire and ſmoak, which could not long Nouriſh, but conſume Nature.</hi> Upon which a Law was made againſt Smoaking and bringing Tobacco into the Camp; But a Mer<g ref="char:EOLhyphen"/>chant
+<pb n="6" facs="tcp:35508:5" rendition="simple:additions"/>more Covetous than honeſt, would venture to bring ſome; which being diſcovered to the <hi>Grand Seignior,</hi> he cauſed him to be tyed to a Stake, his Tobacco ſet about him, and made one ſmoaking ſerve for all. A good example, only a little <hi>Turkiſh.</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>THE Author of this <hi>Fſſay,</hi> having (ſome time ſince) ſent it to our Society, it was conſidered amongſt us, and (for its rare and compleat Defign, exquiſite penetration of Thought and Intention) conceived worthy to be publiſhed upon the Credit of its own Baſis; but the Members of the Society (who deſire to be unknown as yet) being Abſent, and the Printer miſtaking the Deſign, by thinking it done only to gain a Penny, did put an unintended Title to it, by which it paſ<g ref="char:EOLhyphen"/>ſed for no better than <hi>Grubſtreet,</hi> nay not half ſo well; for the Hawk<g ref="char:EOLhyphen"/>ers could not ſell it for any thing; it was too weighty and conſum<g ref="char:EOLhyphen"/>mate for the paultrey Admirers of their Merchandizes. Yet the Title forbad any Man of Senſe to Look upon it. But the Society being en<g ref="char:EOLhyphen"/>courag'd by His Majeſty's repeated <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and moſt Chriſtian Deſires for Suppreſſing Vice and Prophaneneſs; and by the Exam<g ref="char:EOLhyphen"/>ple of ſo many Perſons of the Greateſt Rank (in this moſt Honoura<g ref="char:EOLhyphen"/>ble Houſe) that have ſubſcribed their approbation of a Book, En<g ref="char:EOLhyphen"/>tituled, <hi>An Account of the Societies, for Reformation of Manners;</hi> Wherein all Perſons are earneſtly exhorted to be Aſſiſtant to ſo good a Work in their reſpective Capacities, they (by God's Aſſi<g ref="char:EOLhyphen"/>ſtance) reſolved to purſue the Author's Deſign, ſo far as to lay it before this Honourable Houſe, the proper Fountain from whence ſuch ſtreams of Goodneſs muſt derive, which is the utmoſt they can in their preſent Circumſtances do; and tho' they pretend not to ſet the Project in the cleareſt Light by this ſmall hint, yet they are prompt to hope and believe, that by the Sage Cultivation of this Honourable Houſe, this <hi>Embrio</hi> may eaſily be formed into an Ad<g ref="char:EOLhyphen"/>mirable Perfection; and they having received from the unknown Author of this <hi>Eſſay</hi> ſuch Recommendatory Arguments in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elation to both Church and State, which in due time, (if thoſe Conſiderations ſhall meet with Encouragement by Your Honours Approbation) may be made Publick, ſuch as they think ſufficient to Evidence not only the Truth, but the indiſpenſable Neceſſity of the Undertaking; ſome few of which they do in all Humility propoſe to Your Honours Conſideration.</p>
+               <pb n="7" facs="tcp:35508:5"/>
+               <p n="1">
+                  <hi>Firſt,</hi> whether it be not the only way to eſtabliſh our Nations Peace and Happineſs, to follow our Saviour's Advice; and firſt <hi>ſeek the Kingdom of Heaven, that all things elſe may be Added;</hi> and ſince this muſt firſt be done; Whether we can reaſonably ex<g ref="char:EOLhyphen"/>pect the good things that are neceſſary to eſtabliſh our Nations happy Tranquility, whilſt this <hi>Kingdom</hi> is ſought for?</p>
+               <p n="2">
+                  <hi>2dly,</hi> Whether this <hi>ſeeking</hi> don't conſiſt in <hi>Repentance</hi> and <hi>Amend<g ref="char:EOLhyphen"/>ment</hi> of the Nation in General, as well as your particular ſelves?</p>
+               <p n="3">
+                  <hi>3dly,</hi> Whether any more effectual Methods can be taken to anſwer His Majeſty's moſt Gracious Deſires to have all manner of Vice ſuppreſed, than by preventing the Retailing Strong-Drinks of all ſorts in our Nation; and whether this Project be not as pra<g ref="char:EOLhyphen"/>cticable as indiſpenſably neceſſary, upon thoſe Conſiderations?</p>
+               <p n="1">1. Whether it be a right Notion in Politicks to ſet ſuch extra<g ref="char:EOLhyphen"/>ordinary Taxes upon Luxury, becauſe ſuch vaſt Summs are daily conſumed in Wine, Ale, Tobacco, and Coffee in the Re<g ref="char:EOLhyphen"/>ſpective Houſes that Retail the ſame?</p>
+               <p n="2">
+                  <hi>2ly,</hi> How detrimental it muſt needs be for any Nation to de<g ref="char:EOLhyphen"/>ſtroy ſo much of its Stock to ſo little purpoſe; and whether our Men, Money, and Manufactures that are exchang'd for thoſe Tri<g ref="char:EOLhyphen"/>fles, be not ſo much Treaſure given for that which makes us as in<g ref="char:EOLhyphen"/>ſenſably Poor, as exceſſive Wicked?</p>
+               <p n="3">
+                  <hi>3ly,</hi> Whether if all this Wealth were husbanded and employ<g ref="char:EOLhyphen"/>ed in ſome other Traffick of Real uſe, a much greater Revenue might not be raiſed to the Crown without oppreſſing any Perſon, becauſe what doth ariſe from thoſe Commodities is very ſmall, in conſi<g ref="char:EOLhyphen"/>deration of the Value we give them, tho' we deſtroy them waſt<g ref="char:EOLhyphen"/>fully ſo ſoon as they are at the greateſt Price?</p>
+               <p n="4">
+                  <hi>4ly,</hi> Whether if the Retailing of Strong-Drinks were prevent<g ref="char:EOLhyphen"/>ed, Perſons of Quality, Gentlemen, and all Perſons that can now afford to buy them of the Retailers, may not Drink them much Cheaper in their own Houſes, where 'tis impoſſible ſo much Debauchery and Lewdneſs ſhould be acted and encouraged, as in Retailing Houſes it is, and ever will be?</p>
+               <p n="5">
+                  <hi>5ly,</hi> Whether if theſe Nurſeries of Vice, Faction, Diſſention and Idleneſs were ſuppreſſed, all Perſons would not ſpare time to frequent the daily Of<g ref="char:EOLhyphen"/>fices of the Church, by which our Spiritual guides would be more edifying to themſelves and others?</p>
+               <p n="6">
+                  <hi>6ly,</hi> Whether theſe Retailing Houſes has not deprived more Worthy Pa<g ref="char:EOLhyphen"/>rents of their juſt hopes in being happy in their Children than Death it ſelf?</p>
+               <p n="7">
+                  <hi>7ly,</hi> Whether Maſters of all Ranks might not have their Buiſineſs better
+<pb n="8" facs="tcp:35508:6"/>done, and with more ſecurity from being defrauded by their Servants, if they depended upon their Maſters good Pleaſure, for all the Strong-Drink they drank?</p>
+               <p n="8">
+                  <hi>8ly,</hi> Whether Tradeſmen in general do beleive that the Ale. Houſe Cuſtom was ever profitable to them, and whether from 10 to 100 <hi>l.</hi> that's ſpent, once, twice, and in ſome great Towns thrice a Week, on Market-days in a Ta<g ref="char:EOLhyphen"/>vern, Ale, or Coffee-houſe, in conſuming thoſe Trifles extravagantly, would not be better laid out in our Manufactures in their Shops?</p>
+               <p n="9">
+                  <hi>9ly,</hi> Whether it be not the Intereſt of <hi>England,</hi> to have Rents low, becauſe all things will fall in proportion, and then we ſhall Work our Manufactures Cheap and be able to underſell our Neighbours in all Places, which is the only way to preſerve our Commerce abroad, which at this time all Nations are Raviſhing from us; nor can the Nobility and Gentry ſuffer by it either in Honour or Eſtate, by reaſon of the proportionate fall of all other Commodi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</p>
+               <p n="10">
+                  <hi>10ly,</hi> Whether if no Strong-Drink were to be ſold by Retail, an Army of 30 or 40 thouſand Men might not be kept on Foot, Paid, be pro<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> not grieviance but a ſecurity to our Nation: If occaſion be?</p>
+               <p n="11">
+                  <note place="margin">And he Poor<g ref="char:EOLhyphen"/>eſt People that ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ead nothing will find their Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e returned doube in their accounts at t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e years end by the Cheapneſs of Corn.</note>
+                  <hi>11ly,</hi> Let it be ſuppoſed that every Man ſpends but 2<hi rend="sup">d</hi> 
+                  <hi>per die<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gantly? If this were prevented, Whether each Perſon would not be able to pay 2<hi rend="sup">d</hi> 
+                  <hi>per</hi> Week to the King, which would double the quarterly Pole, and no Perſon oppreſſed by it?</p>
+               <p>And laſtly, ſince Reformation is ſo highly neceſſary, ſo much talkt of, yet ſo little advanc'd, with all the induſtry of the ſeveral Societies for putting the Laws in Execution againſt offenders, it ſeems altogether neceſſary to find ſome other effectual way to put a ſtop to the Licenſiouſneſs of the Age, whereby the inpending Wrath of Heaven may be averted, by reclaiming the People of this Nation from their continual provoaking the Almighty to ſend his Judgments amongſt us; and if by putting this Project in execution (with<g ref="char:EOLhyphen"/>out which nothing but a miracle can do it) ſome inconvenience ſhould hap<g ref="char:EOLhyphen"/>pen at firſt to particular Perſons, it may be conſidered that only ſuch will ſuffer whoſe Temporal welfare conſiſts in the eternal Ruin of our Nation; as 'tis made Apparent in a Treatiſe that's ready for the Preſs, if theſe conſide<g ref="char:EOLhyphen"/>rations meet with the deſired effect; and if any Perſon or Society has any thing to object againſt what has been ſaid, the Members of this Society will return them humble Thanks for giving them Advertiſement in ſome of the publick Prints, provided always they don't advance a Temporal concern before an Eternal: for as thoſe things are incompatible, they will make no reply, but to ſuch as prefer things Eternal before things Tranſitory, for they have higher Aims than Revenge or Applauſe, and Act by a more Elevated Policy, than that of being known; they require from Mankind a greater ſucceſs than either Reward or Commendation, 'tis Reformation and A<g ref="char:EOLhyphen"/>mendment they expect.</p>
+               <p>☞ If theſe Conſiderations meet with the deſired Effect, the SOCIETY will make it manifeſt that two Millions may be raiſed Anually, and four ſaved <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Nation, without oppreſſing any People.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:35508:6"/>
+            <head>POSTSCRIPT.</head>
+            <p>THE SOCIETY are very willing to adhere to His MAJESTY's Obſervations, That the <hi>Increaſe of the POOR are become a Burden to the Kingdom; their Looſe and ill Life contributing to the Depravation of Manners complain'd of.</hi> Now, whether any thing contributes ſo much to a Looſe and ill Life through the whole Kingdom, as Taverns and Ale-Houſes, and all ſuch Receptacles of Unimploy'd People? Let every man Conſider, and ſpeak his Mind without Prejudice or Heat. For as this SOCIETY have no Siniſter Deſigns of their own; ſo they have no Envidious Peak againſt any the moſt diſſolute Managers of <hi>Retailing-Houſes,</hi> no farther than what may tend to their own Eternal as well as Temporal Welfare: Therefore they deſire that all ſuch as are Concern'd to Sup<g ref="char:EOLhyphen"/>preſs this Undertaking, upon account of either Intereſt or Convenience, will firſt ſeriouſly Conſider and weigh the Mo<g ref="char:EOLhyphen"/>tives inducing to the Project, and the preſent Circumſtances of the Kingdom; and how neceſſary it is to Employ ſome part of the Money that is ſo unreaſonably Spent in the King<g ref="char:EOLhyphen"/>dom to ſuch Uſes as His Majeſty mentions; and whether the Means propoſed be not the only way to make it Sufferable and Acceptable to all Capacities. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> alſo be Conſi<g ref="char:EOLhyphen"/>dered, that if good Small-Beer, good Beef, Mutton, and o<g ref="char:EOLhyphen"/>ther Viands be not wanting, no Perſon can Suffer, be he ne<g ref="char:EOLhyphen"/>ver ſo far from home; and the pooreſt will be able to pur<g ref="char:EOLhyphen"/>chaſe ſo much as he has Occaſion for, without hazarding ei<g ref="char:EOLhyphen"/>ther his Time, Health, or any thing elſe that's truly Valuable; and tho' as it is not expected that this can be effected in a Moment; yet by making Men ſenſible of how ſmall Uſe the Retailing STRONG DRINK is to the Real behoof of Man<g ref="char:EOLhyphen"/>kind, they will eaſily part with ſuch an imaginary Good, for a Real one; which is, Dear Countrymen, the moſt hearty Deſire of</p>
+            <closer>
+               <signed>Your moſt loving Friends.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
